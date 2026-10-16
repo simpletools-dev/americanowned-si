@@ -1,4 +1,4 @@
-// americanmade.si shared JS: mobile nav, data center filter, newsletter form
+// americanowned.si shared JS: mobile nav, data center filter, newsletter form
 (function () {
   var toggle = document.getElementById("nav-toggle");
   var nav = document.getElementById("site-nav");
